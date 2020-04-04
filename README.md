@@ -5,15 +5,16 @@ Pack of dowloaded icons for all personnals projects
  &nbsp;&nbsp; A pack of 550 icons ranges insides folders with sens name.
 
 
-         __   __
-        |  | /  /      /\
-        |  |/  /      /  \
-        |     /      / /\ \
-        |    |      / /__\ \
-        |  |\ \    / ______ \
-        |__| \_\  / /      \ \
+#         __   __
+#        |  | /  /  
+#        |  |/  /
+#        |     /  
+#        |    |     
+#        |  |\  \
+#        |  | \  \   
+#        |__|  \__\  237
       
-##Made wit love by Kratos237
+## Made wit love by Kratos237
 
 ### Free for personnal usage. 
 ### Get the full pack there 👇👇👇👇👇
