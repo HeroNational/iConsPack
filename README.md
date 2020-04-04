@@ -9,7 +9,8 @@ Pack of dowloaded icons for all personnals projects
         |  | /  /  
         |  |/  /
         |     /  
-        |    |     
+        |    /
+        |     \
         |  |\  \
         |  | \  \   
         |__|  \__\  237
