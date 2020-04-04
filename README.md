@@ -17,7 +17,7 @@ Pack of dowloaded icons for all personnals projects
         
         
       
-## Made wit love by Kratos237
+## Made with love by Kratos237
 
 ### Free for personnal usage. 
 ### Get the full pack there 👇👇👇👇👇
