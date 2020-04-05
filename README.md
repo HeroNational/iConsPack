@@ -2,7 +2,7 @@
 Pack of dowloaded icons for all personnals projects
 
 <center><img src="https://cdn.icon-icons.com/icons2/1780/PNG/128/v-avatar_114344.png" style="width:150px"></center>
- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; A pack of 550 icons ranges insides folders with sens name.
+ &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; A pack of more than 500 icons ranges insides folders with sens name.
 
 
          __   __
