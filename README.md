@@ -19,7 +19,7 @@ Pack of dowloaded icons for all personnals projects
       
 ## Made with love by Kratos237
 
-### Free for personnal usage. 
+### Free for personnal and commercial usage. 
 ### Get the full pack there 👇👇👇👇👇
 ### &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href="https://icon-icons.com/">Icon-icon</a>
 # Usefull links
