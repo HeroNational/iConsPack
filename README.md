@@ -25,5 +25,5 @@ Pack of dowloaded icons for all personnals projects
 # Usefull links
 https://www.pngegg.com/fr/png-bmvyb <br/>
 https://www.pngwing.com/fr/<br/>
-https://www.freepng.fr/<br/>
-
+https://www.freepng.fr/<br/> 
+https://github.com/Kratos237/design-resources-for-developers
